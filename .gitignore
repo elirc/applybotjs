@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/
+.tmp_applybot/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
